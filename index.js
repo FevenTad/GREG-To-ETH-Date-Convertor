@@ -88,8 +88,8 @@ function convertDate(gregorianDate) {
         }
 
     }
-    console.log(ethMonths[myDate2.habeshaMonth - 1] + " " + myDate2.habeshaDay + ", " + myDate2.habeshaYear);
+    return (ethMonths[myDate2.habeshaMonth - 1] + " " + myDate2.habeshaDay + ", " + myDate2.habeshaYear);
 };
 
-export default convertDate;
+module.exports = convertDate;
 
