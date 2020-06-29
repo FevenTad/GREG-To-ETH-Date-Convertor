@@ -1,5 +1,5 @@
 {
-  "name": "GregToEth",
+  "name": "greg-to-eth-date-convertor",
   "version": "1.0.0",
   "description": "This module changes any Gregorian date to Ethiopian date",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/FevenTad/GREG-To-ETH-Date-Convertor.git"
   },
-  "keywords": [],
+  "keywords": ["convertor", "eth"],
   "author": "feventad",
   "license": "ISC",
   "bugs": {
